@@ -1,4 +1,4 @@
-#  Hi, I'm Luciano
+#  About me
 
 🎓 I'm a **Master's student in Computer Engineering** at **Università degli Studi di Napoli Federico II**, specializing in **embedded systems**.  
 💡 I aim to focus my career in **AI models for embedded systems**.
