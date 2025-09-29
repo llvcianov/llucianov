@@ -2,7 +2,6 @@
 
 🎓 I'm a **Master's student in Computer Engineering** at **Università degli Studi di Napoli Federico II**, specializing in **embedded systems**.  
 💡 I aim to focus my career in **AI models for embedded systems**.
->  Here you can find all my projects related to my studies, both academic and personal.
 
 📧 luciano.vitale@studenti.unina.it  
 💼 LinkedIn: [link] 
