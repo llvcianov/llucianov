@@ -28,6 +28,9 @@
 ![STM32CubeIDE](https://img.shields.io/badge/-STM32CubeIDE-0072C6?style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![PowerPoint](https://img.shields.io/badge/-PowerPoint-D24726?logo=microsoft-powerpoint&logoColor=white&style=flat)
+![Apache](https://img.shields.io/badge/-Apache%20HTTP%20Server-D22128?logo=apache&logoColor=white&style=flat)
+![Tomcat](https://img.shields.io/badge/-Apache%20Tomcat-F8DC75?logo=apache-tomcat&logoColor=black&style=flat)
+![WSL2](https://img.shields.io/badge/-WSL2-4D4D4D?logo=windows&logoColor=white&style=flat)
 
 
 ## 📊 GitHub Stats
